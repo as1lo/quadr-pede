@@ -1,4 +1,4 @@
-#👾 🤖 Robô Quadrúpede 🤖 👾 
+#Robô Quadrúpede 
 
 
 
